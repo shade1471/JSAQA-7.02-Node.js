@@ -1,0 +1,25 @@
+{
+    "name": "jsqa-7.02_node",
+    "version": "1.0.0",
+    "description": "HW 7.02",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "eslint": "eslint",
+        "prettier": "prettier"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shade1471/JSAQA-7.02-Node.js.git"
+    },
+    "author": "Andrey Gribanov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shade1471/JSAQA-7.02-Node.js/issues"
+    },
+    "homepage": "https://github.com/shade1471/JSAQA-7.02-Node.js#readme",
+    "dependencies": {
+        "eslint": "^8.15.0",
+        "prettier": "^2.6.2"
+    }
+}
